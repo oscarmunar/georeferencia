@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"altura":7},
+      "properties": {"altura":7,"propietario":"Oscar Munar"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
